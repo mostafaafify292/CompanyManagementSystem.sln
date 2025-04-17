@@ -1,0 +1,30 @@
+D:\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.deps.json
+D:\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.dll
+D:\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.pdb
+D:\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-DAL.dll
+D:\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-DAL.pdb
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.csproj.AssemblyReference.cache
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.AssemblyInfoInputs.cache
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.AssemblyInfo.cs
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.csproj.CoreCompileInputs.cache
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-.EBA4EF00.Up2Date
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.dll
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\refint\Company-BLL.dll
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.pdb
+D:\Projects .Net\Company-BLL\obj\Debug\net7.0\ref\Company-BLL.dll
+F:\.Net Projects\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.deps.json
+F:\.Net Projects\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.dll
+F:\.Net Projects\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-BLL.pdb
+F:\.Net Projects\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-DAL.dll
+F:\.Net Projects\Projects .Net\Company-BLL\bin\Debug\net7.0\Company-DAL.pdb
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.csproj.AssemblyReference.cache
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.AssemblyInfoInputs.cache
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.AssemblyInfo.cs
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.csproj.CoreCompileInputs.cache
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-.EBA4EF00.Up2Date
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.dll
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\refint\Company-BLL.dll
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\Company-BLL.pdb
+F:\.Net Projects\Projects .Net\Company-BLL\obj\Debug\net7.0\ref\Company-BLL.dll
